@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "umQtormZg5sdj3ZKeP9ut9SWBgGr6jIOghsOS8nDdklO0tARM4z3dDcwwXXAGHo9Cyb25H2igilk3LdGF0WrdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shali\\OneDrive - The University of Alabama\\MIS321\\source\\repos\\localDatabase\\localDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shali\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\shali\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
